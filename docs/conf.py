@@ -126,7 +126,7 @@ todo_include_todos = False
 #
 html_theme = 'sphinx_rtd_theme'
 html_style = 'css/rtd_theme_custom.css'
-html_logo = '_static/logo.png'
+html_logo = '_static/profile.png'
 
 html_theme_options = {
     'collapse_navigation': False,
